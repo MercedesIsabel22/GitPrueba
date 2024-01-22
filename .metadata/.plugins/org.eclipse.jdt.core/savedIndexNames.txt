@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+E:\Proyectos Eclipse 2024\Proyectos Java\Mochila\.metadata\.plugins\org.eclipse.jdt.core
+2817671527.index
+791594861.index
+1865797976.index
